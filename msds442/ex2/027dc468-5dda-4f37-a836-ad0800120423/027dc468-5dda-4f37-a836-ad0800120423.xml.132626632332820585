@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<RecordingInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublicID>027dc468-5dda-4f37-a836-ad0800120423</PublicID>
+  <SessionID>92f7ed23-a5a1-4781-9590-ad080011471f</SessionID>
+  <SessionGroupID>2df1efc6-9068-46ab-a16f-acc400d06144</SessionGroupID>
+  <SessionLabel>msds442-ex2.1(account)-ajs</SessionLabel>
+  <SessionGroupLabel>Meeting Recordings</SessionGroupLabel>
+  <UploadStatus>Offline</UploadStatus>
+  <IsFinalized>false</IsFinalized>
+  <StartTime>0001-01-01T00:00:00</StartTime>
+  <EndTime>0001-01-01T00:00:00</EndTime>
+  <Streams />
+  <EventStreams />
+  <Segments />
+  <Server>northwestern.hosted.panopto.com</Server>
+  <TimeOffset>0</TimeOffset>
+  <DeleteWhenUploadComplete>false</DeleteWhenUploadComplete>
+  <UserID>00000000-0000-0000-0000-000000000000</UserID>
+  <EnableUploadApi>true</EnableUploadApi>
+  <DeliveryID xsi:nil="true" />
+  <EnableMacRecorderEventFileTracking xsi:nil="true" />
+  <ClientInfo>
+    <Type>Windows</Type>
+    <MachineID>S-1-5-21-2166472098-3643754601-1943781432gqn6kqjwmn</MachineID>
+    <IPAddress>fe80::7828:4615:7b30:d827%42</IPAddress>
+    <ClientBuildVersion>9.0.2.00006</ClientBuildVersion>
+    <ClientAppsVersion>9.0.2</ClientAppsVersion>
+    <OSVersion>Microsoft Windows NT 10.0.19043.0</OSVersion>
+    <ClientName>MSI</ClientName>
+    <UserAgentId xsi:nil="true" />
+  </ClientInfo>
+  <RepairStatus>NotRepaired</RepairStatus>
+  <FaultedReason>NotFaulted</FaultedReason>
+  <FinalizeFailureCount>0</FinalizeFailureCount>
+  <LastFinalizeCall>0001-01-01T00:00:00</LastFinalizeCall>
+  <RecordingDir>C:\PanoptoRecorder\027dc468-5dda-4f37-a836-ad0800120423</RecordingDir>
+  <DeleteAfterTime xsi:nil="true" />
+</RecordingInfo>

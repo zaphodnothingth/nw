@@ -1,0 +1,19 @@
+2021-04-02 22:57:01.5479|INFO|Upload starting 
+2021-04-02 22:57:01.5479|INFO|Start loading file state from disk 
+2021-04-02 22:57:01.5479|INFO|Upload state file does not exist 
+2021-04-02 22:57:01.5479|INFO|Start initializing upload with Panopto 
+2021-04-02 22:57:01.8867|INFO|Service returned different File ID, restarting the upload 
+2021-04-02 22:57:01.8867|INFO|Initializing upload with Panopto complete 
+2021-04-02 22:57:01.8867|INFO|Upload file using direct upload protocol 
+2021-04-02 22:57:01.8867|INFO|Start uploading file to content store 
+2021-04-02 22:57:02.2665|INFO|Uploading file to content store complete 
+2021-04-02 22:57:02.2665|INFO|Start serializing upload state to disk 
+2021-04-02 22:57:02.2946|INFO|Serializing upload state to disk complete 
+2021-04-02 22:57:02.2946|INFO|Start finalizing upload with Panopto 
+2021-04-02 22:57:03.1938|INFO|Finalizing upload with Panopto complete 
+2021-04-02 22:57:03.1938|INFO|Start serializing upload state to disk 
+2021-04-02 22:57:03.1938|INFO|Serializing upload state to disk complete 
+2021-04-02 22:57:03.1938|INFO|Upload complete 
+2021-04-02 22:57:03.1938|INFO|Upload worker terminated 
+2021-04-02 22:57:03.1938|INFO|Upload worker cleanup complete 
+2021-04-02 22:57:06.3266|INFO|Upload state removed from disk 

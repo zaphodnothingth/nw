@@ -1,0 +1,66 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Cardenas, Nicolas Cespedes
+   Pozo, Pilar
+   Lopes, Francisco Paulo Nunes
+   Grisi-Filho, Jose H H
+   Alvarez, Julio
+TI Use of Network Analysis and Spread Models to Target Control Actions for
+   Bovine Tuberculosis in a State from Brazil.
+SO Microorganisms
+VL 9
+IS 2
+DI 10.3390/microorganisms9020227
+PD 2021 Jan 22
+PY 2021
+AB Livestock movements create complex dynamic interactions among premises
+   that can be represented, interpreted, and used for epidemiological
+   purposes. These movements are a very important part of the production
+   chain but may also contribute to the spread of infectious diseases
+   through the transfer of infected animals over large distances. Social
+   network analysis (SNA) can be used to characterize cattle trade patterns
+   and to identify highly connected premises that may act as hubs in the
+   movement network, which could be subjected to targeted control measures
+   in order to reduce the transmission of communicable diseases such as
+   bovine tuberculosis (TB). Here, we analyzed data on cattle movement and
+   slaughterhouse surveillance for detection of TB-like lesions (TLL) over
+   the 2016-2018 period in the state of Rio Grande do Sul (RS) in Brazil
+   with the following aims: (i) to characterize cattle trade describing the
+   static full, yearly, and monthly snapshots of the network contact trade,
+   (ii) to identify clusters in the space and contact networks of premises
+   from which animals with TLL originated, and (iii) to evaluate the
+   potential of targeted control actions to decrease TB spread in the
+   cattle population of RS using a stochastic metapopulation disease
+   transmission model that simulated within-farm and between-farm disease
+   spread. We found heterogeneous densities of premises and animals in the
+   study area. The analysis of the contact network revealed a highly
+   connected (~94%) trade network, with strong temporal trends, especially
+   for May and November. The TLL cases were significantly clustered in
+   space and in the contact network, suggesting the potential for both
+   local (e.g., fence-to-fence) and movement-mediated TB transmission.
+   According to the disease spread model, removing the top 7% connected
+   farms based on degree and betweenness could reduce the total number of
+   infected farms over three years by >50%. In conclusion, the
+   characterization of the cattle network suggests that highly connected
+   farms may play a role in TB dissemination, although being close to
+   infected farms was also identified as a risk factor for having animals
+   with TLL. Surveillance and control actions based on degree and
+   betweenness could be useful to break the transmission cycle between
+   premises in RS.
+RI Cespedes Cardenas, Nicolas/; Alvarez, Julio/H-8292-2013; Pozo, Pilar/O-1728-2018
+OI Cespedes Cardenas, Nicolas/0000-0001-7884-2353; Alvarez,
+   Julio/0000-0002-8999-9417; Pozo, Pilar/0000-0002-2003-2873
+ZA 0
+ZB 0
+ZR 0
+ZS 0
+TC 0
+Z8 0
+Z9 0
+SN 2076-2607
+UT MEDLINE:33499225
+PM 33499225
+ER
+
+EF

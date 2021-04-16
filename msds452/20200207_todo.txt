@@ -1,0 +1,15 @@
+translate tois into abbrevs
+    want to have representation for articles
+    need to come up with description for items without DOI
+    wants a dictionary, mapping abbrev to tuple (doi, title (yr))
+    also dict [abbrev]: publications
+    
+    concern about proceeding publications (PP)
+    that have a number of papers - make sure that DOI identifies unique paper
+    
+    sources should definitely be separate nodes
+        should refs that are parts of a PP
+        
+        
+    take the egocentric part from 
+        consider using in/out degree (max) to contribute to multi-ego(alters) plot

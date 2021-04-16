@@ -1,0 +1,40 @@
+2021-04-02 22:56:02.9341|INFO|Upload starting 
+2021-04-02 22:56:02.9341|INFO|Start loading file state from disk 
+2021-04-02 22:56:02.9341|INFO|Upload state file does not exist 
+2021-04-02 22:56:02.9341|INFO|Start initializing upload with Panopto 
+2021-04-02 22:56:03.2335|INFO|Service returned different File ID, restarting the upload 
+2021-04-02 22:56:03.2335|INFO|Service returned empty upload ID, restarting the upload 
+2021-04-02 22:56:03.2335|INFO|Initializing upload with Panopto complete 
+2021-04-02 22:56:03.2335|INFO|Upload file using chunk protocol 
+2021-04-02 22:56:03.2335|INFO|Start initializing upload with content store 
+2021-04-02 22:56:03.4778|INFO|Initializing upload with content store complete 
+2021-04-02 22:56:03.4778|INFO|Reconcile chunks with file on disk 
+2021-04-02 22:56:03.4778|INFO|Waiting for 112 seconds to process new chunks 
+2021-04-02 22:57:01.5219|INFO|Reconcile chunks with file on disk 
+2021-04-02 22:57:01.5219|WARN|Upload worker terminating due to cancellation 
+2021-04-02 22:57:01.5219|WARN|Worker completed with exception System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Panopto.Recorder.Upload.PanoptoFileUploader.<StopUpload>d__11.MoveNext()
+2021-04-02 22:57:01.5219|INFO|Upload stopped 
+2021-04-02 22:57:01.5219|INFO|Upload worker terminated 
+2021-04-02 22:57:01.5219|INFO|Upload worker cleanup complete 
+2021-04-02 22:57:01.5479|INFO|Upload starting 
+2021-04-02 22:57:01.5479|INFO|Start loading file state from disk 
+2021-04-02 22:57:01.5479|INFO|Upload state file does not exist 
+2021-04-02 22:57:01.5479|INFO|Start initializing upload with Panopto 
+2021-04-02 22:57:01.8867|INFO|Service returned different File ID, restarting the upload 
+2021-04-02 22:57:01.8867|INFO|Initializing upload with Panopto complete 
+2021-04-02 22:57:01.8867|INFO|Upload file using direct upload protocol 
+2021-04-02 22:57:01.8867|INFO|Start uploading file to content store 
+2021-04-02 22:57:05.3663|INFO|Uploading file to content store complete 
+2021-04-02 22:57:05.3663|INFO|Start serializing upload state to disk 
+2021-04-02 22:57:05.3663|INFO|Serializing upload state to disk complete 
+2021-04-02 22:57:05.3663|INFO|Start finalizing upload with Panopto 
+2021-04-02 22:57:06.0059|INFO|Finalizing upload with Panopto complete 
+2021-04-02 22:57:06.0059|INFO|Start serializing upload state to disk 
+2021-04-02 22:57:06.0270|INFO|Serializing upload state to disk complete 
+2021-04-02 22:57:06.0270|INFO|Upload complete 
+2021-04-02 22:57:06.0270|INFO|Upload worker terminated 
+2021-04-02 22:57:06.0270|INFO|Upload worker cleanup complete 
+2021-04-02 22:57:06.3266|INFO|Upload state removed from disk 

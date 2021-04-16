@@ -1,0 +1,27 @@
+we have the citation graph of a database or some topic
+derive cocitations and bibliographic coupling
+using abstracts, with sources and titles in graph
+we need abstracts for all sources & refs
+have topics as attributes of nodes
+if we have a directed path in a chain of citations
+    is this path also represented in the coupling or cocitation graph
+    if we can go from i to i+1, then we can form triangles of ij
+        the other 2 edges are formed by vertex that are both pointing to ij - making ij a cocitation with weighting as num of references
+        when 2 articles cite 1 ref - bibliographic coupling (both point at k; i & j don't reciprocate
+        
+        
+    if nodes of a topic are citing nodes of the same topic
+    
+    if we can aggreagate tpics
+    topic a is connected to b if topic a nodes cite topic bibliographic
+        aggregate to weight them by the number of citations
+        extract semantic info through topic modeling
+        
+    see if you can extract citations\\
+    
+    sandy would like to have socio epistomology
+    
+    for the last homework, you've already done the networks
+    for the course project you can just include what you've already done
+    present the neo4j viz
+    you have to write a report
