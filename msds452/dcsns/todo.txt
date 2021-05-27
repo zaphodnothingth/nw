@@ -1,0 +1,11 @@
+- fix refs with additional regex
+- fix duplicates so the first is labeld i
+- citing puplications that cited both sources on edge
+- for bibiliographic coupling we need the opposite
+- publications sharing keywords from topic modeling
+
+----0219
+improve recognition of title in refs
+append to df: author, title, year, abstract
+
+add 'abbrev' to original df
