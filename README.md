@@ -1,5 +1,6 @@
 # nw-msds452-graph
-## Web and Network Data Science
+northwestern university MSDS 459 Web and Network Data Science Coursework
+
 ## [northwestern university MSDS 452](https://sps.northwestern.edu/masters/data-science/program-courses.php?course_id=4777) coursework
 
 ## Description
